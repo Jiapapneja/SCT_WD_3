@@ -22,24 +22,5 @@ tictactoe/
 ## How to Run
 1. Download or clone the repository:
    ```bash
-   git clone 
+   git clone https://github.com/Jiapapneja/SCT_WD_3.git
 Open the index.html file in any modern web browser.
-
-##How to Play
-Choose a game mode:
--2 Players: Play with a friend on the same device.
--Vs Computer: Play against an AI opponent.
--If playing Vs Computer, select your side (X or O).
--Click on any empty cell to make your move.
--The first player to align three marks horizontally, vertically, or diagonally wins.
--Use New Round to start a new game or Reset All to clear scores.
-
-##Technologies Used
--HTML5
--CSS3 (Responsive design)
--JavaScript (ES6) with Minimax algorithm for AI
-
-##Future Enhancements
--Add sound effects
--Add dark mode
--Multiple difficulty levels for AI
